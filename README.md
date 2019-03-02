@@ -1,8 +1,10 @@
 # Machine-Learning-Neural-Networks
 Multi-Class Classification and Neural Networks (multi-class classification)
 
-Building a multi-class classifier using one-vs-all logistic regression models. 
+## Building a multi-class classifier using one-vs-all logistic regression models. 
 
+
+### Some theory behind the project...
 Vectorized the cost function and gradient for faster computations and available scalability for larger datasets. Therefore, the code for this computation does not contain any "loops" and is completely iterative free.
 
 Formula for Regularized Logistic Regression:
